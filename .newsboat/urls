@@ -1,14 +1,14 @@
 ---TECH---
 
 https://hnrss.org/newest?points=100
-https://www.eff.org/rss/updates.xml
+https://www.eff.org/rss/updates.xml "~EFF"
 https://frame.work/blog.rss
-https://edwardsnowden.substack.com/feed
+https://edwardsnowden.substack.com/feed "~Snowden"
 
 ---REDDIT---
-http://www.reddit.com/r/archlinux/top.rss?sort=new&t=week&limit=25
-http://www.reddit.com/r/linux/top.rss?sort=new&t=week&limit=25
-http://www.reddit.com/r/stopgaming/top.rss?sort=new&t=week&limit=25
+http://www.reddit.com/r/archlinux/top.rss?sort=new&t=week&limit=25 "~archlinux"
+http://www.reddit.com/r/linux/top.rss?sort=new&t=week&limit=25 "~linux"
+http://www.reddit.com/r/stopgaming/top.rss?sort=new&t=week&limit=25 "~stopgaming"
 
 ---YOUTUBE---
 https://www.youtube.com/feeds/videos.xml?channel_id=UCeNm7lbfRg9wiBDSLQ-M8RA
