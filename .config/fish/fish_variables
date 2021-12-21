@@ -5,6 +5,7 @@ SETUVAR _fish_abbr_grep:rg
 SETUVAR _fish_abbr_l:exa\x20\x2dl
 SETUVAR _fish_abbr_ll:exa\x20\x2dal
 SETUVAR _fish_abbr_ls:exa
+SETUVAR _fish_abbr_n:nnn\x20\x2dde
 SETUVAR fish_color_autosuggestion:BD93F9
 SETUVAR fish_color_cancel:\x2dr
 SETUVAR fish_color_command:F8F8F2
